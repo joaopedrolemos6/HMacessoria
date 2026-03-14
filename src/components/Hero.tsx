@@ -25,8 +25,8 @@ const Hero = () => {
           </motion.span>
 
           <h1 className="text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight leading-[0.95] mb-8 text-balance text-foreground">
-            Transformamos indicação em{" "}
-            <span className="text-primary">máquinas</span> de vendas.
+            Saia da indicação e venda{" "}
+            <span className="text-primary">todos os dias</span> de forma previsível.
           </h1>
 
           <motion.p
