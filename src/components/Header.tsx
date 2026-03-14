@@ -33,12 +33,7 @@ const Header = () => {
       <div className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
         {/* Logo */}
         <button onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })} className="flex items-center gap-2.5 group">
-          <div className="w-8 h-8 bg-primary rounded-sm flex items-center justify-center transition-transform group-hover:scale-110">
-            <div className="w-3.5 h-3.5 bg-primary-foreground rotate-45" />
-          </div>
-          <span className="text-xl font-bold tracking-tighter uppercase text-foreground">
-            Hexis<span className="text-primary">.</span>
-          </span>
+          <img src={logo} alt="Hexis" className="h-9 w-auto transition-transform group-hover:scale-105" />
         </button>
 
         {/* Desktop Nav */}
