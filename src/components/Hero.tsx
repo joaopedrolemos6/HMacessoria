@@ -42,7 +42,7 @@ const Hero = () => {
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.6, duration: 0.8, ease }}
+            transition={{ delay: 0.6, duration: 0.8, ease: ease as any }}
             className="flex flex-col sm:flex-row items-center justify-center gap-4"
           >
             <button
