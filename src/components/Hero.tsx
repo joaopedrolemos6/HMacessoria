@@ -35,8 +35,8 @@ const Hero = () => {
             transition={{ delay: 0.4, duration: 0.8 }}
             className="text-base sm:text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-12 font-light text-pretty"
           >
-            Através de inteligência comercial, dados proprietários e tráfego de alta performance,
-            criamos estruturas de vendas previsíveis e escaláveis.
+            Com inteligência comercial, dados e tráfego pago, criamos sistemas de aquisição
+            que geram clientes todos os dias.
           </motion.p>
 
           <motion.div
