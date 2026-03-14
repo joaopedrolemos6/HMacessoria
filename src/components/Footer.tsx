@@ -9,7 +9,7 @@ const Footer = () => {
               <div className="w-3 h-3 bg-primary-foreground rotate-45" />
             </div>
             <span className="text-lg font-bold tracking-tighter uppercase text-foreground">
-              Nexus<span className="text-primary">.</span>
+              Hexis<span className="text-primary">.</span>
             </span>
           </div>
 
