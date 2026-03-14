@@ -18,7 +18,7 @@ const Footer = () => {
           </p>
 
           <p className="text-muted-foreground/50 text-xs">
-            © {new Date().getFullYear()} Nexus. Todos os direitos reservados.
+            © {new Date().getFullYear()} Hexis. Todos os direitos reservados.
           </p>
         </div>
       </div>
