@@ -9,7 +9,7 @@ const Footer = () => {
               <div className="w-3 h-3 bg-primary-foreground rotate-45" />
             </div>
             <span className="text-lg font-bold tracking-tighter uppercase text-foreground">
-              Nexus<span className="text-primary">.</span>
+              Hexis<span className="text-primary">.</span>
             </span>
           </div>
 
@@ -18,7 +18,7 @@ const Footer = () => {
           </p>
 
           <p className="text-muted-foreground/50 text-xs">
-            © {new Date().getFullYear()} Nexus. Todos os direitos reservados.
+            © {new Date().getFullYear()} Hexis. Todos os direitos reservados.
           </p>
         </div>
       </div>

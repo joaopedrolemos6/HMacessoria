@@ -35,7 +35,7 @@ const Method = () => {
           className="mb-20"
         >
           <p className="text-primary text-xs font-bold uppercase tracking-[0.2em] mb-4">Metodologia</p>
-          <h2 className="text-3xl md:text-5xl font-bold text-foreground mb-6">O Método Nexus</h2>
+          <h2 className="text-3xl md:text-5xl font-bold text-foreground mb-6">O Método Hexis</h2>
           <div className="w-20 h-1 bg-primary rounded-full" />
         </motion.div>
 

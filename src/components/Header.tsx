@@ -36,7 +36,7 @@ const Header = () => {
             <div className="w-3.5 h-3.5 bg-primary-foreground rotate-45" />
           </div>
           <span className="text-xl font-bold tracking-tighter uppercase text-foreground">
-            Nexus<span className="text-primary">.</span>
+            Hexis<span className="text-primary">.</span>
           </span>
         </button>
 
