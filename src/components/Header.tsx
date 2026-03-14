@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
+import logo from "@/assets/logo.png";
 
 const navItems = ["Método", "Resultados", "Clientes", "Equipe", "Contato"];
 
