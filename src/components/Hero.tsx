@@ -18,7 +18,7 @@ const Hero = () => {
           <motion.span
             initial={{ opacity: 0, scale: 0.9 }}
             animate={{ opacity: 1, scale: 1 }}
-            transition={{ duration: 0.6, delay: 0.2, ease }}
+            transition={{ duration: 0.6, delay: 0.2, ease: ease as any }}
             className="inline-block px-5 py-2 mb-8 border border-primary/20 rounded-full text-[10px] font-bold tracking-[0.2em] text-primary uppercase bg-primary/5"
           >
             Inteligência Comercial de Elite
