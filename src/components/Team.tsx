@@ -1,8 +1,8 @@
 import { motion } from "framer-motion";
 
 const team = [
-  { name: "Rafael Mendes", role: "CEO & Estrategista", initials: "RM" },
-  { name: "Ana Ferreira", role: "Head de Tráfego", initials: "AF" },
+  { name: "Rafael Ferreira", role: "CEO & Estrategista", initials: "RF" },
+  { name: "Larissa Ferreira", role: "Head de Tráfego", initials: "LF" },
   { name: "Lucas Costa", role: "Inteligência Comercial", initials: "LC" },
   { name: "Marina Santos", role: "Diretora de Vendas", initials: "MS" },
 ];
